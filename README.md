@@ -58,14 +58,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/11181419675">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQECToF4Ile_Dg/profile-displayphoto-shrink_200_200/0/1684873841080?e=1691020800&v=beta&t=GrTanARpG2ZRQLuYyHw1J2JVQpbBwcg9GLGDW8ALNxY"  />
@@ -73,12 +65,6 @@
 ###
 
 <h4 align="left">Passionate IT professional with a keen eye for innovation and 4 years of hands-on experience. Specializing in Agile DevOps and a vast array of programming languages and frameworks including .NET Core, ReactJS, MongoDB, and Entity Framework. I've been privileged to work on critical system and software maintenance, enhancing efficiency, and facilitating business development. My creativity thrives in problem-solving and bringing to life forward-thinking solutions. Let's connect, collaborate, and create</h4>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FerhatACAR/FerhatACAR/output/snake.svg" alt="Snake animation" />
 
 ###
 
