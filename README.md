@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ferhat and I'm a Software Specialist, from Turkey/Istanbul</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/11181419675?si=f2e83bcff6544fd8">
+  <a href="https://open.spotify.com/user/11181419675">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
